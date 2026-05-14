@@ -1,4 +1,4 @@
-##🌟  Introduction
+## 🌟 Introduction
 This project is a deep exploration of the Data Science job landscape, with a focus on Data Scientist roles. Using SQL, I analyzed salary trends, in‑demand skills, and the intersection between high compensation and high demand. The goal was to uncover which roles pay the most, what skills employers prioritize, and which technical capabilities offer the strongest career advantage.
 
 SQL queries? Check them out here:[project_sql folder](/project_sql/) 
