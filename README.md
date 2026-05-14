@@ -9,7 +9,7 @@ The dataset—sourced from an SQL course, and it includes job titles, salaries, 
 
 The link to the course can be found here: [SQL Course](https://lukebarousse.com/sql)
 
-### The questions I wanted to answer through my SQL queries were: 
+### ⁉️ The questions I wanted to answer through my SQL queries were: 
 The key questions guiding my analysis were:
 
 1. Which Data Scientist roles offer the highest salaries?
